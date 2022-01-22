@@ -1,2 +1,2 @@
-# Project-Pluto
-A Zoom Inc. Automation Client that farts
+# Project-Plutonix
+A Zoom Inc. Automation Client that is useful for lazy people
